@@ -1,0 +1,33 @@
+// ========================== //
+//           PAGE             //
+// ========================== //
+
+@use "../base" as *;
+
+/*--START LAYOUT--------------------*/
+
+/*--START MAIN--------------------*/
+#main {
+  @include grid(auto, auto 1fr);
+  @include container(sm);
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+
+  .main {
+    &__attribution {
+      font-size: 0.75rem;
+      color: $theme-primary-200;
+      text-align: center;
+    }
+  }
+
+  @include mq(min, md) {
+    @include container(lg);
+    grid-template-rows: auto 50px;
+  }
+}
+
+/*--END MAIN--------------------*/
+
+/*--END LAYOUT--------------------*/
