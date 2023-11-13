@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Results Summary Component/Frontier Mentor](https://www.frontendmentor.io/solutions/3-column-preview-card-component-sassscss-U9V58OWt4R)
+- Solution URL: [3 Column Preview Card Component/Frontier Mentor](https://www.frontendmentor.io/solutions/3-column-preview-card-component-sassscss-U9V58OWt4R)
 - Live Site URL: [Vercel App](https://3-column-preview-card-component-main-mauve.vercel.app)
 
 ## My process
